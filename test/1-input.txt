@@ -1,0 +1,10 @@
+2
+California,Colorado,New York,Vermont
+Connecticut,Delaware,New York
+Kentucky,Florida,Illinois Indiana,Minnesota
+Georgia,New York,Idaho,Kentucky
+Connecticut,North Dakota,North Carolina
+Ohio,North Carolina,New Mexico,Tennessee
+Oklahoma,North Carolina,Connecticut
+Wyoming,Wisconsin,Texas,Louisiana
+California,New York,Wisconsin,Idaho

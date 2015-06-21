@@ -1,0 +1,12 @@
+{
+  "name": "coding-challenge-delta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "example": "node ./test/1-example.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
